@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5238fd-0600-4921-87b7-257d2d6297f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,8 +186,16 @@
       <workItem from="1585601754364" duration="27810000" />
       <workItem from="1585683606332" duration="18269000" />
       <workItem from="1585738579100" duration="5464000" />
-      <workItem from="1585748198874" duration="754000" />
+      <workItem from="1585748198874" duration="987000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated installation.md">
+      <created>1585748985890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585748985890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +206,8 @@
       <path value="$PROJECT_DIR$/resources/js/permission" />
       <path value="$PROJECT_DIR$/permission" />
     </ignored-roots>
+    <MESSAGE value="Updated installation.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated installation.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="174" width="800" height="688" key="#Composer" timestamp="1585375575849">
@@ -211,6 +222,10 @@
       <screen x="0" y="0" width="1920" height="862" />
     </state>
     <state x="693" y="279" width="524" height="495" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.862/1920.0.1600.900@0.0.1920.862" timestamp="1585705676297" />
+    <state x="525" y="4" width="860" height="858" key="CommitChangelistDialog2" timestamp="1585748985620">
+      <screen x="0" y="0" width="1920" height="862" />
+    </state>
+    <state x="525" y="4" width="860" height="858" key="CommitChangelistDialog2/0.0.1920.862/1920.0.1600.900@0.0.1920.862" timestamp="1585748985620" />
     <state x="755" y="446" width="399" height="160" key="NewPhpFileDialog" timestamp="1585434651648">
       <screen x="0" y="0" width="1920" height="862" />
     </state>
@@ -219,6 +234,10 @@
       <screen x="0" y="0" width="1920" height="862" />
     </state>
     <state x="449" y="121" width="1022" height="741" key="SettingsEditor/0.0.1920.862/1920.0.1600.900@0.0.1920.862" timestamp="1585738815719" />
+    <state x="555" y="257" width="800" height="539" key="Vcs.Push.Dialog.v2" timestamp="1585748991580">
+      <screen x="0" y="0" width="1920" height="862" />
+    </state>
+    <state x="555" y="257" width="800" height="539" key="Vcs.Push.Dialog.v2/0.0.1920.862/1920.0.1600.900@0.0.1920.862" timestamp="1585748991580" />
     <state x="616" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1585738579070">
       <screen x="0" y="0" width="1920" height="862" />
     </state>
