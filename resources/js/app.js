@@ -4,6 +4,8 @@
  * building robust, powerful web applications using Vue and Laravel.
  */
 
+
+
 require('./bootstrap');
 
 import Vue from 'vue'
@@ -19,7 +21,7 @@ import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 Vue.use(BootstrapVue)
 // Optionally install the BootstrapVue icon components plugin
 Vue.use(IconsPlugin)
-import Main from "../../packages/wovosoft/laravel-permissions/resources/js/src/Main"
+import Main from "../wovosoft/laravel-permissions/js/src/Main";
 
 const app = new Vue({
     el: '#app',
