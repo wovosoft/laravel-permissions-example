@@ -17,3 +17,11 @@ DB_PASSWORD=
 - Run `php artisan key:generate`
 - Run `php artisan migrate db:seed`
 - Run `yarn install`
+- Run `yarn prod` or `yarn dev` or `yarn watch` etc
+- Run `php artisan serve` and navigate to the link you got in your terminal. 
+
+To login use 
+```html
+username : superadmin
+password : superadmin123456789
+```
