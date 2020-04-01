@@ -18,7 +18,7 @@
         "laravel/ui": "^2.0",
         "spatie/laravel-permission": "^3.11",
         "wovosoft/crud": "^1.0",
-        "wovosoft/laravel-permissions": "dev-master"
+        "wovosoft/laravel-permissions": "^1.0.0"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
@@ -64,11 +64,5 @@
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi"
         ]
-    },
-    "repositories": {
-        "wovosoft/laravel-permissions": {
-            "type": "path",
-            "url": "./packages/wovosoft/laravel-permissions"
-        }
     }
 }
